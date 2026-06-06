@@ -4,5 +4,7 @@ Version: 1.0.8
 Architecture: iphoneos-arm
 Maintainer: sidx1
 Filename: https://raw.githubusercontent.com/sidx1-scratch/sidx1-scratch-/main/deb/online-prefrontal.deb
+Size: 1220
+MD5sum: aad9b6b3a489caa8eaaddfdcd3646616
 Description: Local AI web interface frontend. Automatically installs the latest public global npm registry package on device setup.
 
