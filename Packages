@@ -1,7 +1,7 @@
 Package: com.sidx1.prefrontal
 Name: Prefrontal
 Version: 1.0.8
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Maintainer: sidx1
 Depends: nodejs
 Filename: debs/online-prefrontal.deb
