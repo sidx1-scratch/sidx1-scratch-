@@ -3,6 +3,6 @@ Name: Prefrontal
 Version: 1.0.8
 Architecture: iphoneos-arm
 Maintainer: sidx1
-Filename: ./deb/online-prefrontal.deb
+Filename: https://raw.githubusercontent.com/sidx1-scratch/sidx1-scratch-/main/deb/online-prefrontal.deb
 Description: Local AI web interface frontend. Automatically installs the latest public global npm registry package on device setup.
 
